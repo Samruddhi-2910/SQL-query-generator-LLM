@@ -1,10 +1,3 @@
 # SQL-query-generator-LLM
 
-In this project we will develop a app which can create sql queries 
-based on user input if user asks for average of total students 
-marks from science department for specific year then our llm 
-module will generate query for getting result from database also 
-module generate three responses actual SQL query and then expected 
-output and also detailed explanation of the generated query.
-To achieve this, we can use gemini pro model and streamlit 
-framework for user interface
+The SQL-Query-Generator-LLM project aims to simplify and automate the creation of SQL queries using a Large Language Model (LLM). This tool is designed to help users who may not have extensive knowledge of SQL syntax and database management, enabling them to generate accurate and optimized SQL queries through natural language inputs.
