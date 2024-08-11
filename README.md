@@ -16,3 +16,5 @@ This project leverages Google’s Generative AI (`gemini-pro`) to interpret natu
 - **Google Generative AI (Gemini Pro)**: AI model for processing natural language queries.
 - **dotenv**: For managing environment variables securely.
 
+
+
