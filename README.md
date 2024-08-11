@@ -17,4 +17,8 @@ This project leverages Google’s Generative AI (`gemini-pro`) to interpret natu
 - **dotenv**: For managing environment variables securely.
 
 
+# output
+![image](https://github.com/user-attachments/assets/81930d67-4875-4f9d-b05a-26bae227859e)
+
+
 
